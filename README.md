@@ -18,4 +18,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoowsIsBack&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoowsIsBack&layout=compact)
