@@ -1,7 +1,7 @@
 # Hello, I'm Kiryll Dave <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 
 ## About Me 🚀
-- 🎓 2nd-year college student aspiring to become a Software Developer
+- 🎓 2nd-year college student aspiring to become a Backend Developer
 
 ## 📫 Contact Me
 - 📧 Email: dbangcoyo11@gmail.com
