@@ -16,6 +16,3 @@
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoowsIsBack&layout=compact&theme=dark)
-
-# Profile Visit:
-![Visitor Count](https://profile-counter.glitch.me/FoowsIsBack/count.svg)
