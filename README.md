@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kryll_dave)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3profile.com/dave.py)
 
-# 💻 Tech Stack:
+# 💻 Skills & Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,php,git,github)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
