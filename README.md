@@ -1,7 +1,7 @@
 # Hello, I'm Kiryll Dave <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 
 ## About Me 🚀
-- 🎓 3rd year college student
+- 🎓 3rd year college student at EVSU
 
 ## 📫 Contact Me
 - 📧 Email: dbangcoyo11@gmail.com
