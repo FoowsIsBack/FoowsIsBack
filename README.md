@@ -2,6 +2,8 @@
 
 ## About Me 🚀
 - 🎓 3rd year college student at EVSU
+- 💡 Passionate about Web Development, Programming  
+- 📚 Always eager to learn new technologies and improve my skills
 
 ## 📫 Contact Me
 - 📧 Email: dbangcoyo11@gmail.com
