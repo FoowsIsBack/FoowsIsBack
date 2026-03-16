@@ -14,7 +14,7 @@
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3profile.com/davepy)
 
 # 💻 Skills & Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,mysql,fastapi,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,mysql,fastapi,git,supabase,postman)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoowsIsBack&layout=compact&theme=dark)
