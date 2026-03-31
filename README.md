@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kryll_dave)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,mysql,fastapi,git,supabase,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,mysql,fastapi,git,supabase,postman,dart)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoowsIsBack&layout=compact&theme=dark)
