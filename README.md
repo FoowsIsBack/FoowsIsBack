@@ -1,7 +1,7 @@
 # Hello, I'm Dave <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">
 
 ## About Me 🚀
-- 🎓 3rd year college student at EVSU.
+- 🎓 3rd year college student at EVSU-OCC
 - 💡 Passionate about Web Development, Programming.  
 - 📚 Always eager to learn new technologies and improve my skills.
 
