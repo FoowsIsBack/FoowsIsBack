@@ -8,7 +8,7 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,mysql,sqlite,fastapi,git,supabase,postman,dart,flutter,react,)](https://skillicons.dev)
 
-## 🛠️ Developer Profiles:
+## 👨‍💻 Developer Profiles:
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3profile.com/davepy)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27532465/foowsisback)
 
