@@ -6,7 +6,7 @@
 - 📚 Always eager to learn new technologies and improve my skills.
 
 ## 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,javascript,php,fastapi,git,sqlite,mysql,supabase,postgres,postman,dart,flutter,react,vite,figma)](https://skillicons.dev)
