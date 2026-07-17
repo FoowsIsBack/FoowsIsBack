@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,php,fastapi,git,sqlite,mysql,supabase,postgres,postman,dart,flutter,react,vite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vue,javascript,php,git,mysql,postgres,postman,dart,flutter)](https://skillicons.dev)
 
 ## 👨‍💻 Developer Profiles:
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3profile.com/davepy)
