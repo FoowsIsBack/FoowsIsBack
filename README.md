@@ -5,9 +5,6 @@
 - Passionate about Web Development, Programming.  
 - Always eager to learn new technologies and improve my skills.
 
-## Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
 ## Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,vue,javascript,php,git,mysql,postgres,postman,dart,flutter)](https://skillicons.dev)
 
