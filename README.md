@@ -13,9 +13,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27532465/foowsisback)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Foows)
 
-## Contact Me:
-- 📧 Email: dbangcoyo11@gmail.com
-
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jhinbangcoyo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kryll_dave)
