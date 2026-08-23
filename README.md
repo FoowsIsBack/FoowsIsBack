@@ -6,7 +6,7 @@
 - Always eager to learn new technologies and improve my skills.
 
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,javascript,php,laravel,react,ts,fastapi,git,mysql,postgres,postman,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres,html,css,javascript,typescript,react,git,postman)](https://skillicons.dev)
 
 ## Developer Profiles:
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](https://www.w3profile.com/davepy)
